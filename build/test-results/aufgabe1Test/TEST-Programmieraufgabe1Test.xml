@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Programmieraufgabe1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-24T11:54:48" hostname="MacBook-Air-von-Luca.local" time="0.009">
+  <properties/>
+  <testcase name="main()" classname="Programmieraufgabe1Test" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
